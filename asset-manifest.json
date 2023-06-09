@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Proyecto9-08-23/static/css/main.f87a97b1.css",
+    "main.js": "/Proyecto9-08-23/static/js/main.5abad53d.js",
+    "static/js/787.855fac28.chunk.js": "/Proyecto9-08-23/static/js/787.855fac28.chunk.js",
+    "static/media/Sin título.png": "/Proyecto9-08-23/static/media/Sin título.04fe3938afeb54cfd65d.png",
+    "static/media/servicioLGTBIfobia2.png": "/Proyecto9-08-23/static/media/servicioLGTBIfobia2.a28bb368556a402bf191.png",
+    "static/media/logo-madrid-1030x130.jpg": "/Proyecto9-08-23/static/media/logo-madrid-1030x130.f80a801c62498b9483b3.jpg",
+    "static/media/titulo2.png": "/Proyecto9-08-23/static/media/titulo2.6e33f028c8f4b07e9418.png",
+    "static/media/whatsappVerde.svg": "/Proyecto9-08-23/static/media/whatsappVerde.c79d87baf8f0dfa2a861c960ff7e32ca.svg",
+    "static/media/instagram-blanco.svg": "/Proyecto9-08-23/static/media/instagram-blanco.434414697a7253e5cc29be5ceb7bb6b5.svg",
+    "static/media/twitter-blanco.svg": "/Proyecto9-08-23/static/media/twitter-blanco.8c3da6e4e88ae2edb47410c49c72117c.svg",
+    "index.html": "/Proyecto9-08-23/index.html",
+    "static/media/facebook-blanco.svg": "/Proyecto9-08-23/static/media/facebook-blanco.7776b7efa99631d8ddd207796cf95a4d.svg",
+    "main.f87a97b1.css.map": "/Proyecto9-08-23/static/css/main.f87a97b1.css.map",
+    "main.5abad53d.js.map": "/Proyecto9-08-23/static/js/main.5abad53d.js.map",
+    "787.855fac28.chunk.js.map": "/Proyecto9-08-23/static/js/787.855fac28.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f87a97b1.css",
+    "static/js/main.5abad53d.js"
+  ]
+}

@@ -1,0 +1,64 @@
+
+.edificio {
+  width: 50px;
+  margin: -8px 0px -12px 0px;
+}
+.direccion {
+  cursor: pointer;
+}
+.abrirCerrar1 {
+    margin-left: 169px;
+}
+.transporte {
+  width: 40px;
+  margin: -1px 8px -12px 10px;
+}
+.abrirCerrar2 {
+  margin-left: 130px;
+}
+.horario {
+  width: 45px;
+  margin: -5px 8px -12px 0px;
+}
+.abrirCerrar3 {
+    margin-left: 194px;
+}
+.contacto {
+    font-size: 24px;
+    color: white;
+}
+.p-cita {
+  margin-top: 55px;
+  font-family: "Poppins", sans-serif;
+  text-decoration: underline;
+}
+.p-cita:hover {
+   text-decoration: underline;
+}
+.ul-cajitas {
+  line-height: 25px;
+  letter-spacing: 2px;
+}
+h2.a.parpadea {
+    margin: 45px;
+    /* margin-left: -5px; */
+    animation-name: parpadeo;
+    animation-duration: 1.5s;
+    animation-iteration-count: infinite;
+    -webkit-animation-name:parpadeo;
+    -webkit-animation-duration: 1.5s;
+    -webkit-animation-iteration-count: infinite;
+  }
+  @-moz-keyframes parpadeo{  
+    0% { opacity: 1.0; }
+    100% { opacity: 1.0; }
+  }
+  @-webkit-keyframes parpadeo {  
+    0% { opacity: 1.0; }
+     100% { opacity: 1.0; }
+  }
+  @keyframes parpadeo {  
+    50% { color: black; }
+    0% { opacity: 1.0; }
+    100% { opacity: 1.0; }
+  }

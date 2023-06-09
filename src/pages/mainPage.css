@@ -1,0 +1,246 @@
+
+.main-container1 {
+  height: auto;
+  margin: 50px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+.titulo2png {
+  width: 550px;
+  height: 380px;
+  margin-left: 36%;
+  margin-top: -176px;
+}
+@media (max-width: 720px) {
+  .titulo2png {
+    margin-left: 31%;
+    width: 250px;
+    margin-top: -176px;
+    height: 200px;
+  }
+  }
+  .silla {
+    width: 80px;
+    margin-bottom: -28px
+    
+  }
+.direccion {
+  color: white;
+    margin: 30px 30px 30px 15px;
+    border: 5px solid rgb(23, 120, 185);
+    background-color: #497ec0;
+    border-radius: 5px;
+    /* font-family: "Poppins", sans-serif; */
+    font-size: 20px;
+    box-shadow: rgb(50, 48, 48) 3px 3px 13px 5px;
+    width: 350px;
+    padding: 14px;
+    height: auto;
+}
+.caja-mapa {
+  margin: 30px;
+  height: 619px;
+  border: 5px solid rgb(23, 120, 185);
+  background-color: #497ec0;
+  border-radius: 5px;
+  font-size: 15px;
+  box-shadow: rgb(50, 48, 48) 3px 3px 13px 5px;
+  width: 422px;
+  padding: 20px;
+}
+.caja-important-Info {
+  margin: 0 20% 0 20%;
+  border: 5px solid rgb(23, 120, 185);
+  background-color: #497ec0;
+  border-radius: 5px;
+  font-size: 15px;
+  box-shadow: rgb(50, 48, 48) 3px 3px 13px 5px;
+  width: auto;
+  padding: 20px;
+  height: auto;
+}
+.caja-Contacto {
+  margin: 30px;
+  border: 5px solid rgb(23, 120, 185);
+  background-color: #497ec0;
+  border-radius: 5px;
+  font-size: 15px;
+  box-shadow: rgb(50, 48, 48) 3px 3px 13px 5px;
+  width: 420px;
+  padding: 20px;
+  height: auto;
+}
+
+.main-container2 {
+  margin-top: -20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+.cajas2 {
+  margin: 20px 20px 50px 20px;
+  border: 5px solid rgb(23, 120, 185);
+  background-color: #497ec0;
+  border-radius: 5px;
+  font-size: 15px;
+  box-shadow: rgb(50, 48, 48) 3px 3px 13px 5px;
+  width: 600px;
+  padding: 20px;
+  height: 495px;
+}
+
+@media (max-width: 750px) {
+  .cajas1 {
+    height: auto;
+  }
+  .cajas2 {
+    height: auto;
+  }
+  .caja-important-Info {
+    margin: 15px 30% 0 15%;
+    border: 5px solid rgb(23, 120, 185);
+    background-color: #497ec0;
+    border-radius: 5px;
+    font-size: 15px;
+    box-shadow: rgb(50, 48, 48) 3px 3px 13px 5px;
+    width: 420px;
+    padding: 20px;
+    height: auto;
+  }
+}
+
+h1.main-text1 {
+  color: white;
+  font-size: 34px;
+  text-align: center;
+  margin-top: 18px;
+}
+h1.main-text2 {
+  text-align: center;
+  color: white;
+  font-size: 25px;
+  margin: 3px;
+  text-decoration: underline;
+}
+
+.main-text {
+  letter-spacing: 1px;
+  font-size: 34px;
+  color: white;
+  text-align: center;
+}
+.main-text-silla {
+  font-size: 30px;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  margin-left: -4px;
+  margin-bottom: -40px;
+}
+.main-text0 {
+  /* line-height: 30px; */
+  /* letter-spacing: 12px; */
+  font-size: 27px;
+  color: white;
+  text-align: center;
+}
+a.main-text {
+  text-decoration: none;
+  font-size: 25px;
+  color: white;
+  text-align: center;
+}
+p.main-text-mapa {
+  font-size: 20px;
+  color: white;
+  text-align: center;
+}
+li {
+  letter-spacing: 2px;
+  font-size: 25px;
+  color: white;
+  margin-left: 20px;
+}
+ul {
+
+  margin-left: -30px;
+}
+/* -----------footer----------------------- */
+.footer-things {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  flex-wrap: wrap;
+  flex-direction: row;
+  height: 90px;
+  background-color: white;
+}
+
+.caja1-footer {
+  background-color: white;
+  justify-content: center;
+  width: 25%;
+}
+.caja2-footer {
+  background-color: white;
+  justify-content: center;
+  width: 25%;
+}
+.caja3-footer {
+  background-color: white;
+  justify-content: center;
+  width: 25%;
+}
+.p-footer {letter-spacing: 2px;
+  font-size: 25px;
+}
+.footer-img {
+  width: 350px;
+}
+.icono-face-negro{
+  width: 54px;
+}
+.icono-twit-negro{
+ margin-left: 20px;
+ margin-right: 20px;
+ margin-bottom: 5px;
+  width: 46px;
+}
+.icono-insta-negro{
+  width: 54px;
+}
+@media (max-width: 750px) {
+  .footer-things {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    flex-wrap: wrap;
+    flex-direction: row;
+    height: 90px;
+    background-color: white;
+  }
+  .caja1-footer {
+    background-color: white;
+    justify-content: center;
+    width: 100%;
+  }
+  .caja2-footer {
+    background-color: white;
+    justify-content: center;
+    width: 100%;
+  }
+  .caja3-footer {
+    padding: 10px 0 10px 0;
+    background-color: white;
+    justify-content: center;
+    width: 100%;
+  }
+}
+

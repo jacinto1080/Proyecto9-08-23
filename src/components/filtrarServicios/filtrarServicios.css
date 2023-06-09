@@ -1,0 +1,39 @@
+.main-title-a {
+    margin-bottom: 10px;
+    color: white;
+    opacity: 100%;
+    font-size: 35px;
+    text-align: center;
+    margin-top: 42px;
+  }
+  .main-title-b {
+    letter-spacing: 7px;
+    /* font-family: "Poppins", sans-serif; */
+    margin-top: -14px;
+    margin-bottom: 5px;
+    text-align: center;
+    font-size: 48px;
+    font-weight: bold;
+    color: white;
+  }
+  .main-title-c {
+    letter-spacing: 2px;
+    /* font-family: "Poppins", sans-serif; */
+    margin-top: -14px;
+    margin-bottom: 5px;
+    text-align: center;
+    font-size: 48px;
+    font-weight: bold;
+    color: white;
+  }
+  .main-title-d{
+    letter-spacing: 3px;
+    /* font-family: "Poppins", sans-serif; */
+    margin-top: -14px;
+    margin-bottom: 5px;
+    text-align: center;
+    font-size: 48px;
+    font-weight: bold;
+    color: white;
+  }
+  

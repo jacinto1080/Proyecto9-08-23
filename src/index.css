@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  background-color: #497ec0;
+  font-family: "Poppins", sans-serif;
+  background-image: url(./components//icono-image//servicioLGTBIfobia2.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.main-container-total {
+  width: 100%;
+  background-size: cover;
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-image: url(./components//icono-image//Sin\ título.png);
+}
+/* .main-container-cita {
+  width: 100%;
+  background-size: cover;
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-image: url(./components//icono-image//Sin\ título.png);
+} */
+
+@media (max-width: 720px) {
+  .main-container-total {
+    width: auto;
+    height: auto;
+    background-image: none;
+  }
+    .footer-things {
+    width: auto;
+    height: auto;
+  }
+
+}
+

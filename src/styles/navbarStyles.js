@@ -7,10 +7,10 @@ export const NavbarWrapper = styled.nav`
   align-items: center;
   // background:  rgb(57, 97, 184);
   position: fixed;
-  top: 10vh;
-  left: ${props => (props.open ? "0" : "-100%")};
+  top: -5vh;
+  left: ${props => (props.open ? "67px" : "-100%")};
   width: 100%;
-  height: 15vh;
+  height: 20vh;
   margin-left: auto;
   transition: left 0.3s linear;
   // border-radius: 11%;
@@ -25,7 +25,7 @@ export const NavbarWrapper = styled.nav`
     // background: #1778b9;
   }
   a {
-    padding: 0.5rem 0.8rem;
+    // padding: 5px;
     color: #d0c9d1;
     text-decoration: none;
     

@@ -6,7 +6,7 @@ a a.a {
   /* font-family: "Poppins", sans-serif; */
   color: white;
   font-size: 40px;
- 
+  margin-right: 50px;
 }
 @media (max-width: 719px) {
   a a.a {
@@ -14,18 +14,18 @@ a a.a {
     display: block;
     color: white;
     font-size: 20px;
+    margin-bottom: 10px;
    
   }
 }
 .link-navbar {
-  margin-left: 14px;
-  margin-bottom: 8px;
+  /* margin-left: 14px;
+  margin-bottom: 8px; */
 }
 .div-parpadea {
-  margin-left: 48px;
+  /* margin-left: 48px; */
 }
 a.a.parpadea {
-  margin-left: -5px;
   animation-name: parpadeo;
   animation-duration: 1.5s;
   animation-iteration-count: infinite;

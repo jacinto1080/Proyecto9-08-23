@@ -13,8 +13,9 @@ const ModalFormulario = ({ updateSelectedValue, updateSelectedValue2 }) => {
   const navigate = useNavigate();
 
   const handleFormulario = (data) => {
+    console.log(data);
     updateSelectedValue2(false);
-    updateSelectedValue(null);
+    updateSelectedValue("");
     alert("Su solicitud se ha registrado correctamente");
     navigate("/");
     reset();

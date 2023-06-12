@@ -8,6 +8,7 @@ function Navbar({ open, handleClick }) {
   return (
     <NavbarWrapper open={open}>
       <h1 className="navBar">
+        <div className="main-container-navbar">
         <div className="link-navbar">
         <a href="#">
           <Link
@@ -37,6 +38,7 @@ function Navbar({ open, handleClick }) {
             Urgencias fuera de horario
           </Link>
         </a>
+        </div>
         </div>
       </h1>
     </NavbarWrapper>

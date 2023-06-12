@@ -4,7 +4,7 @@ import CalendarApoyo from "react-calendar";
 
 function CalendarioApoyo() {
   const [value, onChange] = useState(new Date());
-
+  console.log(value);
   return (
     <div className="react-calendario">
       <CalendarApoyo

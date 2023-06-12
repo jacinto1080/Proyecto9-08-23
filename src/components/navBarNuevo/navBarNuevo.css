@@ -3,25 +3,35 @@ h1.navBar {
   margin: -6px;
 }
 a a.a {
-  /* font-family: "Poppins", sans-serif; */
   color: white;
   font-size: 40px;
-  margin-right: 50px;
+  /* margin-right: 50px; */
 }
+
 @media (max-width: 719px) {
   a a.a {
     background-color: #497ec0;
     display: block;
     color: white;
     font-size: 20px;
-    margin-bottom: 10px;
+    margin-bottom: 18px;
    
+  }
+  .main-container-navbar {
+    margin-bottom: 12px;
+    margin-left: -70px;
+    border-radius: 5px;
+      box-shadow: rgb(50, 48, 48) 3px 3px 13px 5px;
+      height: 109px;
+      padding: 15px;
+      background-color: #497ec0;
   }
 }
 .link-navbar {
-  /* margin-left: 14px;
-  margin-bottom: 8px; */
+  /* margin-left: 14px; */
+  margin-bottom: 10px;
 }
+
 .div-parpadea {
   /* margin-left: 48px; */
 }

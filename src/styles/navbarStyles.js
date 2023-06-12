@@ -10,7 +10,7 @@ export const NavbarWrapper = styled.nav`
   top: -5vh;
   left: ${props => (props.open ? "67px" : "-100%")};
   width: 100%;
-  height: 20vh;
+  height: 25vh;
   margin-left: auto;
   transition: left 0.3s linear;
   // border-radius: 11%;
@@ -20,12 +20,12 @@ export const NavbarWrapper = styled.nav`
     // flex-direction: row;
     margin-top: 10px;
     position: initial;
-    height: 118px;
+    height: 150px;
     //justify-content: center;
     // background: #1778b9;
   }
   a {
-    // padding: 5px;
+    // padding: 2px;
     color: #d0c9d1;
     text-decoration: none;
     

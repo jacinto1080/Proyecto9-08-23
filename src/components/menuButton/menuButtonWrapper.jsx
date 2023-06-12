@@ -1,9 +1,11 @@
 import React from "react";
 import styled from "styled-components";
 
+
 const MenuButtonWrapper = styled.button`
+
   border: none;
-  background-color: #497ec0;
+  background-color: rgba(73, 126, 192, 0);
   // box-shadow: 0px 0px 1px rgb(50, 50, 50);
   margin-top: 2.5rem;
   // margin-right: 2.7rem;

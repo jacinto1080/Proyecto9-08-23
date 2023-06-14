@@ -69,7 +69,7 @@ const InfoComponent = () => {
               {horarioExpanded && <span>{content3}</span>}
             </div>
           </div>  
-          <a className="main-text" href="/modalCitas"><p className='p-cita'>Cita Previa</p></a>
+          <a className="main-text" href="https://imaginabienestar.simplybook.it/v2/" target="_blank"><p className='p-cita'>Cita Previa</p></a>
         </div>
       </div>
     </>

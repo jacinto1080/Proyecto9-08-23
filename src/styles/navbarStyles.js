@@ -16,7 +16,7 @@ export const NavbarWrapper = styled.nav`
   // border-radius: 11%;
   // border: 1px solid black;
 
-  @media only screen and (min-width: 720px) {
+  @media only screen and (min-width: 721px) {
     // flex-direction: row;
     margin-top: 10px;
     position: initial;

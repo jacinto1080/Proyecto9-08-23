@@ -4,7 +4,13 @@
   margin: -8px 0px -12px 0px;
 }
 .direccion {
+  /* cursor: pointer; */
+  transition: transform 0.3s ease;
+}
+.direccion:hover {
+  background-color: #316cb5;
   cursor: pointer;
+  transform: scale(1.1);
 }
 .abrirCerrar1 {
     margin-left: 168px;

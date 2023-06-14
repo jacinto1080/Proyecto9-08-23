@@ -10,7 +10,7 @@ const MenuButtonWrapper = styled.button`
   margin-top: 2.5rem;
   // margin-right: 2.7rem;
   margin-left: 2rem;
-  @media only screen and (min-width: 720px) {
+  @media only screen and (min-width: 721px) {
     display: none;
   }`;
 function MenuButton({ open, handleClick }) {

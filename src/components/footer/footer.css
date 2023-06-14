@@ -44,7 +44,7 @@
   .icono-insta-negro{
     width: 54px;
   }
-  @media (max-width: 750px) {
+  @media (max-width: 1245px) {
     .footer-things {
       text-align: center;
       align-items: center;

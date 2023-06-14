@@ -15,7 +15,8 @@ function Navbar({ open, handleClick }) {
             onClick={handleClick}
             class="a"
             title="Ir a..."
-            to="/modalCitas"
+            target="_blank"
+            to="https://imaginabienestar.simplybook.it/v2/"
           >
             Cita previa
           </Link>

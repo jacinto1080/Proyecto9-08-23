@@ -70,15 +70,15 @@ ul {
 }
 @media (max-width: 720px) {
   .titulo2png {
-    margin-left: 31%;
+    margin-bottom: -53px;
+    margin-left: 10%;
     width: 250px;
-    margin-top: -285px;
     height: 200px;
   }
   }
   @media (min-width: 721px) and (max-width: 900px) {
     .titulo2png {
-      margin-left: 24%;
+    margin-left: 24%;
     width: 264px;
     margin-top: -285px;
     height: 212px;
@@ -155,8 +155,18 @@ ul {
   padding: 20px;
   height: 495px;
 }
-
-@media (max-width: 750px) {
+.preguntas {
+  text-decoration: underline;
+  font-size: 25px;
+  color: white;
+  margin-left: 158px;
+  letter-spacing: 1px;
+}
+.link-preguntas {
+  margin: 0px 0px 0px -5px;
+  color: #ffffff;
+}
+@media (max-width: 720px) {
   .cajas1 {
     height: auto;
   }

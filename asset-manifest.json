@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Proyecto9-08-23/static/css/main.383c53db.css",
-    "main.js": "/Proyecto9-08-23/static/js/main.0d0aa96a.js",
+    "main.js": "/Proyecto9-08-23/static/js/main.7bce566e.js",
     "static/js/787.855fac28.chunk.js": "/Proyecto9-08-23/static/js/787.855fac28.chunk.js",
     "static/media/Sin título.png": "/Proyecto9-08-23/static/media/Sin título.04fe3938afeb54cfd65d.png",
     "static/media/servicioLGTBIfobia2.png": "/Proyecto9-08-23/static/media/servicioLGTBIfobia2.a28bb368556a402bf191.png",
@@ -13,11 +13,11 @@
     "index.html": "/Proyecto9-08-23/index.html",
     "static/media/facebook-blanco.svg": "/Proyecto9-08-23/static/media/facebook-blanco.7776b7efa99631d8ddd207796cf95a4d.svg",
     "main.383c53db.css.map": "/Proyecto9-08-23/static/css/main.383c53db.css.map",
-    "main.0d0aa96a.js.map": "/Proyecto9-08-23/static/js/main.0d0aa96a.js.map",
+    "main.7bce566e.js.map": "/Proyecto9-08-23/static/js/main.7bce566e.js.map",
     "787.855fac28.chunk.js.map": "/Proyecto9-08-23/static/js/787.855fac28.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.383c53db.css",
-    "static/js/main.0d0aa96a.js"
+    "static/js/main.7bce566e.js"
   ]
 }
